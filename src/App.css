@@ -55,6 +55,8 @@
 .input-field {
   width: 200px;
   height: 20px;
+  font-size: 14px;
+  font-family: 'Source Sans Pro', sans-serif;
   border-radius: 5px;
   background-color: #ffeef5;
     
