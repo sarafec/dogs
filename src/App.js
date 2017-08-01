@@ -7,7 +7,7 @@ function renderDogList() {
     return this.state.currentlyDisplayed.map((dog, index) => 
       <div key={index}>
         <div className="dog-entry">
-          <img className="dog-icon" src={dog.path} alt="dogs" />
+          <img className="dog-icon" src={dog.path} alt={dog.search} tabIndex="0" />
           <div className="dog-name">{dog.breed}</div>
         </div>
       </div>
