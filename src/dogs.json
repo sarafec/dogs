@@ -7,6 +7,7 @@
 	{"search": "bulldog","breed": "Bulldog", "path": "./assets//bulldog.jpg"},
 	{"search": "cavalier king charles spaniel","breed": "Cavalier King Charles Spaniel", "path": "./assets/cavalier-king-charles-spaniel.jpg"},
 	{"search": "chihuahua","breed": "Chihuahua", "path": "./assets/chihuahua.jpg"},
+	{"search": "corgi","breed": "Corgi", "path": "./assets/corgi.jpg"},
 	{"search": "dachshund","breed": "Dachshund", "path": "./assets//dachshund.jpg"},
 	{"search": "dobermann","breed": "Dobermann", "path": "./assets/dobermann.jpg"},
 	{"search": "english cocker spaniel","breed": "English Cocker Spaniel", "path": "./assets/english-cocker-spaniel.jpg"},
