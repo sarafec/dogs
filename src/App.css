@@ -9,7 +9,7 @@ img:focus {
 
 .header {
   background-color: #363b74;
-  color: #ffb2d2;
+  color: #ffeef5;
   font-family: 'Source Sans Pro', sans-serif;
   width: 100%;
   top: 0;
@@ -22,7 +22,7 @@ img:focus {
   font-family: 'Source Sans Pro', sans-serif;
   margin-top: 0;
   margin-bottom: 0;
-  margin-left: 40px;
+  margin-left: 20px;
   padding-top: 20px;
   padding-bottom: 10px;
   font-size: 45px;
